@@ -15,4 +15,4 @@ Strong Communication, Presentation, and Interpersonal skills with excellent prob
 Here are some ideas to get you started:
 
 - 🔭 I’m currently learning on automating data pipeline using AWS & Matillion in order to create an effective data pipeline and connecting it to Dashboard.
-- 📫 How to reach me: [bhaveshdsharma@gmail.com](mailto: bhaveshdsharma@gmail.com)
+- 📫 How to reach me: [bhaveshdsharma@gmail.com]
